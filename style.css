@@ -299,7 +299,7 @@ h2{
   content: "";
   position: absolute;
   width: 2px;
-  top: 55px;
+  top: 20px;
   height: calc(100% - 100px);
   background-color: var(--accent-color);
   z-index: 100;
